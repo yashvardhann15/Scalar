@@ -1,0 +1,1 @@
+Adder adder = new Adder(count , lock);
